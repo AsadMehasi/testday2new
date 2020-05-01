@@ -6,4 +6,7 @@ for i=1:10
     if i==8 
         disp("we're very thirsty");
     end
+    if i==9
+        disp("drink soda");
+    end
 end
